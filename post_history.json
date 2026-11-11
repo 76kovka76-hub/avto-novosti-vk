@@ -2,7 +2,8 @@
   "used_links": [
     "https://www.zr.ru/content/articles/988281-honda-shuttle-ii-2015-2022/",
     "https://www.zr.ru/content/news/988305-disney-testiruet-glazastykh-rob/",
-    "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/"
+    "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/",
+    "https://www.zr.ru/content/news/988335-votour-predstavil-gorodskoj-kr/"
   ],
   "used_tags": [
     "Kia",
@@ -13,9 +14,12 @@
     "АвтоПокупка",
     "АвтоЛогистика",
     "АвтоСпрос",
-    "АвтоСтатистика"
+    "АвтоСтатистика",
+    "Кроссоверы",
+    "Volkswagen",
+    "Hyundai"
   ],
-  "last_slot": "2026-11-11-8",
+  "last_slot": "2026-11-11-9",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -40,6 +44,14 @@
       "title": "Вторичный рынок оживился: где подержанные машины покупали активнее всего",
       "link": "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/",
       "published_at": "2026-11-11T07:17:59.538525+00:00"
+    },
+    {
+      "slot": "2026-11-11-9",
+      "post_id": 65,
+      "source": "За рулём",
+      "title": "Votour представил городской кроссовер V6. Рассказываем, что за модель",
+      "link": "https://www.zr.ru/content/news/988335-votour-predstavil-gorodskoj-kr/",
+      "published_at": "2026-11-11T08:26:45.021714+00:00"
     }
   ]
 }
