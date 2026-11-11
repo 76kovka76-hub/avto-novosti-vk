@@ -4,7 +4,8 @@
     "https://www.zr.ru/content/news/988305-disney-testiruet-glazastykh-rob/",
     "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/",
     "https://www.zr.ru/content/news/988335-votour-predstavil-gorodskoj-kr/",
-    "https://motor.ru/news/premialnaya-toyota-crown-posle-obnovleniya-sokhranila-nepremialnyi-motor-11-11-2026.htm"
+    "https://motor.ru/news/premialnaya-toyota-crown-posle-obnovleniya-sokhranila-nepremialnyi-motor-11-11-2026.htm",
+    "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -21,9 +22,12 @@
     "Hyundai",
     "Toyota",
     "АвтоРоссия",
-    "АвтоМир"
+    "АвтоМир",
+    "АвтоОбзор",
+    "АвтоРынок",
+    "НовостиАвто"
   ],
-  "last_slot": "2026-11-11-10",
+  "last_slot": "2026-11-11-11",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -64,6 +68,14 @@
       "title": "Премиальная Toyota Crown после обновления сохранила непремиальный мотор",
       "link": "https://motor.ru/news/premialnaya-toyota-crown-posle-obnovleniya-sokhranila-nepremialnyi-motor-11-11-2026.htm",
       "published_at": "2026-11-11T09:21:44.069685+00:00"
+    },
+    {
+      "slot": "2026-11-11-11",
+      "post_id": 67,
+      "source": "Motor",
+      "title": "KTM представила свой первый багги X-Bow Arrow с турбомотором от Audi",
+      "link": "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm",
+      "published_at": "2026-11-11T10:21:13.186338+00:00"
     }
   ]
 }
