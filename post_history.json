@@ -7,7 +7,8 @@
     "https://motor.ru/news/premialnaya-toyota-crown-posle-obnovleniya-sokhranila-nepremialnyi-motor-11-11-2026.htm",
     "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm",
     "https://www.zr.ru/content/news/988336-korobka-peredach-novogo-kamaza/",
-    "https://www.zr.ru/content/news/988111-kvadratnyj-zeekr-bez-klassiches/"
+    "https://www.zr.ru/content/news/988111-kvadratnyj-zeekr-bez-klassiches/",
+    "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -33,9 +34,12 @@
     "АвтоЭкология",
     "Внедорожники",
     "АвтоНовостиКореи",
-    "АвтоПромНовости"
+    "АвтоПромНовости",
+    "Москвич",
+    "Электромобили",
+    "АмериканскиеАвто"
   ],
-  "last_slot": "2026-11-11-13",
+  "last_slot": "2026-11-11-14",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -100,6 +104,14 @@
       "title": "Zeekr выпустит внедорожник, который станет конкурентом Гелендвагена",
       "link": "https://www.zr.ru/content/news/988111-kvadratnyj-zeekr-bez-klassiches/",
       "published_at": "2026-11-11T13:11:14.412132+00:00"
+    },
+    {
+      "slot": "2026-11-11-14",
+      "post_id": 72,
+      "source": "Motor",
+      "title": "Собянин вручил полиции Москвы электрокроссоверы «Москвич 3е»",
+      "link": "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm",
+      "published_at": "2026-11-11T14:24:01.264835+00:00"
     }
   ]
 }
