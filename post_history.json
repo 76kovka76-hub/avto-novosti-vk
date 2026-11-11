@@ -9,7 +9,8 @@
     "https://www.zr.ru/content/news/988336-korobka-peredach-novogo-kamaza/",
     "https://www.zr.ru/content/news/988111-kvadratnyj-zeekr-bez-klassiches/",
     "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm",
-    "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/"
+    "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/",
+    "https://www.zr.ru/content/news/988352-mashiny-net-v-spiske-minpromtor/"
   ],
   "used_tags": [
     "Kia",
@@ -41,9 +42,12 @@
     "АмериканскиеАвто",
     "Гибриды",
     "Седаны",
-    "Спорткары"
+    "Спорткары",
+    "Автозакон",
+    "MercedesBenz",
+    "BYD"
   ],
-  "last_slot": "2026-11-11-15",
+  "last_slot": "2026-11-11-16",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -124,6 +128,14 @@
       "title": "В России могут разрешить регистрацию автомобилей из международного розыска",
       "link": "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/",
       "published_at": "2026-11-11T15:13:17.054961+00:00"
+    },
+    {
+      "slot": "2026-11-11-16",
+      "post_id": 74,
+      "source": "За рулём",
+      "title": "В России изменятся правила расчета утильсбора на автомобили: подробности",
+      "link": "https://www.zr.ru/content/news/988352-mashiny-net-v-spiske-minpromtor/",
+      "published_at": "2026-11-11T16:51:29.799141+00:00"
     }
   ]
 }
