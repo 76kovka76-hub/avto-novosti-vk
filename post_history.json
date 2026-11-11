@@ -1,7 +1,8 @@
 {
   "used_links": [
     "https://www.zr.ru/content/articles/988281-honda-shuttle-ii-2015-2022/",
-    "https://www.zr.ru/content/news/988305-disney-testiruet-glazastykh-rob/"
+    "https://www.zr.ru/content/news/988305-disney-testiruet-glazastykh-rob/",
+    "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/"
   ],
   "used_tags": [
     "Kia",
@@ -9,9 +10,12 @@
     "Chery",
     "МировойАвторынок",
     "АвтоВладельцы",
-    "АвтоПокупка"
+    "АвтоПокупка",
+    "АвтоЛогистика",
+    "АвтоСпрос",
+    "АвтоСтатистика"
   ],
-  "last_slot": "2026-11-11-7",
+  "last_slot": "2026-11-11-8",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -28,6 +32,14 @@
       "title": "Будут помогать водителям парковаться: Disney тестирует ИИ-роботов",
       "link": "https://www.zr.ru/content/news/988305-disney-testiruet-glazastykh-rob/",
       "published_at": "2026-11-11T06:10:29.708947+00:00"
+    },
+    {
+      "slot": "2026-11-11-8",
+      "post_id": 62,
+      "source": "За рулём",
+      "title": "Вторичный рынок оживился: где подержанные машины покупали активнее всего",
+      "link": "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/",
+      "published_at": "2026-11-11T07:17:59.538525+00:00"
     }
   ]
 }
