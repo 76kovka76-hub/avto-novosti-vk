@@ -11,7 +11,8 @@
     "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm",
     "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/",
     "https://www.zr.ru/content/news/988352-mashiny-net-v-spiske-minpromtor/",
-    "https://www.zr.ru/content/news/988329-signal-mozhet-propast-v-ehkstre/"
+    "https://www.zr.ru/content/news/988329-signal-mozhet-propast-v-ehkstre/",
+    "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/"
   ],
   "used_tags": [
     "Kia",
@@ -49,9 +50,12 @@
     "BYD",
     "БезопасностьДвижения",
     "Топливо",
-    "Бензин"
+    "Бензин",
+    "Транспорт",
+    "Мобильность",
+    "Дороги"
   ],
-  "last_slot": "2026-11-11-17",
+  "last_slot": "2026-11-11-18",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -148,6 +152,14 @@
       "title": "Subaru отзывает почти 200 тысяч авто: какие модели проверят",
       "link": "https://www.zr.ru/content/news/988329-signal-mozhet-propast-v-ehkstre/",
       "published_at": "2026-11-11T17:42:18.903358+00:00"
+    },
+    {
+      "slot": "2026-11-11-18",
+      "post_id": 76,
+      "source": "За рулём",
+      "title": "Рекорд электромобиля по времени зарядки: подробности",
+      "link": "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/",
+      "published_at": "2026-11-11T19:30:39.738414+00:00"
     }
   ]
 }
