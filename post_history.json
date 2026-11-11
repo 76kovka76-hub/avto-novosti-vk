@@ -8,7 +8,8 @@
     "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm",
     "https://www.zr.ru/content/news/988336-korobka-peredach-novogo-kamaza/",
     "https://www.zr.ru/content/news/988111-kvadratnyj-zeekr-bez-klassiches/",
-    "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm"
+    "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm",
+    "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/"
   ],
   "used_tags": [
     "Kia",
@@ -37,9 +38,12 @@
     "АвтоПромНовости",
     "Москвич",
     "Электромобили",
-    "АмериканскиеАвто"
+    "АмериканскиеАвто",
+    "Гибриды",
+    "Седаны",
+    "Спорткары"
   ],
-  "last_slot": "2026-11-11-14",
+  "last_slot": "2026-11-11-15",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -112,6 +116,14 @@
       "title": "Собянин вручил полиции Москвы электрокроссоверы «Москвич 3е»",
       "link": "https://motor.ru/news/sobyanin-vruchil-policii-moskvy-elektrokrossovery-moskvich-3e-11-11-2026.htm",
       "published_at": "2026-11-11T14:24:01.264835+00:00"
+    },
+    {
+      "slot": "2026-11-11-15",
+      "post_id": 73,
+      "source": "За рулём",
+      "title": "В России могут разрешить регистрацию автомобилей из международного розыска",
+      "link": "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/",
+      "published_at": "2026-11-11T15:13:17.054961+00:00"
     }
   ]
 }
