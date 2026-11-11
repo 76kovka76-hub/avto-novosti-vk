@@ -13,7 +13,8 @@
     "https://www.zr.ru/content/news/988352-mashiny-net-v-spiske-minpromtor/",
     "https://www.zr.ru/content/news/988329-signal-mozhet-propast-v-ehkstre/",
     "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/",
-    "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/"
+    "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/",
+    "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/"
   ],
   "used_tags": [
     "Kia",
@@ -57,9 +58,12 @@
     "Дороги",
     "АвтоГород",
     "Автоновости",
-    "МирАвто"
+    "МирАвто",
+    "Tesla",
+    "Porsche",
+    "Volvo"
   ],
-  "last_slot": "2026-11-12-0",
+  "last_slot": "2026-11-12-1",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -172,6 +176,14 @@
       "title": "«Улыбающееся лицо»: запатентован новый городской микрокар",
       "link": "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/",
       "published_at": "2026-11-11T22:01:24.384744+00:00"
+    },
+    {
+      "slot": "2026-11-12-1",
+      "post_id": 78,
+      "source": "За рулём",
+      "title": "Тонкие диски при целых колодках: почему тормоза могут подвести в самый неподходящий момент",
+      "link": "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/",
+      "published_at": "2026-11-11T22:41:37.159492+00:00"
     }
   ]
 }
