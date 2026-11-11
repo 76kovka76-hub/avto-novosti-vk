@@ -14,7 +14,8 @@
     "https://www.zr.ru/content/news/988329-signal-mozhet-propast-v-ehkstre/",
     "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/",
     "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/",
-    "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/"
+    "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/",
+    "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/"
   ],
   "used_tags": [
     "Kia",
@@ -61,9 +62,12 @@
     "МирАвто",
     "Tesla",
     "Porsche",
-    "Volvo"
+    "Volvo",
+    "АвтоСервис",
+    "АвтоРемонт",
+    "Грузовики"
   ],
-  "last_slot": "2026-11-12-1",
+  "last_slot": "2026-11-12-2",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -184,6 +188,14 @@
       "title": "Тонкие диски при целых колодках: почему тормоза могут подвести в самый неподходящий момент",
       "link": "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/",
       "published_at": "2026-11-11T22:41:37.159492+00:00"
+    },
+    {
+      "slot": "2026-11-12-2",
+      "post_id": 79,
+      "source": "За рулём",
+      "title": "В России появился просторный полноприводный кроссовер Nissan с ценой «китайцев»",
+      "link": "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/",
+      "published_at": "2026-11-11T23:30:40.517407+00:00"
     }
   ]
 }
