@@ -5,7 +5,8 @@
     "https://www.zr.ru/content/news/988306-vtorichnyj-rynok-osenyu-pribavi/",
     "https://www.zr.ru/content/news/988335-votour-predstavil-gorodskoj-kr/",
     "https://motor.ru/news/premialnaya-toyota-crown-posle-obnovleniya-sokhranila-nepremialnyi-motor-11-11-2026.htm",
-    "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm"
+    "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm",
+    "https://www.zr.ru/content/news/988336-korobka-peredach-novogo-kamaza/"
   ],
   "used_tags": [
     "Kia",
@@ -25,9 +26,12 @@
     "АвтоМир",
     "АвтоОбзор",
     "АвтоРынок",
-    "НовостиАвто"
+    "НовостиАвто",
+    "АвтоТюнинг",
+    "Автокомпоненты",
+    "АвтоЭкология"
   ],
-  "last_slot": "2026-11-11-11",
+  "last_slot": "2026-11-11-12",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -76,6 +80,14 @@
       "title": "KTM представила свой первый багги X-Bow Arrow с турбомотором от Audi",
       "link": "https://motor.ru/news/ktm-predstavila-svoi-pervyi-baggi-x-bow-arrow-s-turbomotorom-ot-audi-11-11-2026.htm",
       "published_at": "2026-11-11T10:21:13.186338+00:00"
+    },
+    {
+      "slot": "2026-11-11-12",
+      "post_id": 68,
+      "source": "За рулём",
+      "title": "Коробка передач нового КАМАЗа — наша или китайская?",
+      "link": "https://www.zr.ru/content/news/988336-korobka-peredach-novogo-kamaza/",
+      "published_at": "2026-11-11T12:08:35.672108+00:00"
     }
   ]
 }
