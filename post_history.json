@@ -12,7 +12,8 @@
     "https://www.zr.ru/content/news/988325-kupil-avtomobil-a-on-v-mezhdu/",
     "https://www.zr.ru/content/news/988352-mashiny-net-v-spiske-minpromtor/",
     "https://www.zr.ru/content/news/988329-signal-mozhet-propast-v-ehkstre/",
-    "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/"
+    "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/",
+    "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/"
   ],
   "used_tags": [
     "Kia",
@@ -53,9 +54,12 @@
     "Бензин",
     "Транспорт",
     "Мобильность",
-    "Дороги"
+    "Дороги",
+    "АвтоГород",
+    "Автоновости",
+    "МирАвто"
   ],
-  "last_slot": "2026-11-11-18",
+  "last_slot": "2026-11-12-0",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -160,6 +164,14 @@
       "title": "Рекорд электромобиля по времени зарядки: подробности",
       "link": "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/",
       "published_at": "2026-11-11T19:30:39.738414+00:00"
+    },
+    {
+      "slot": "2026-11-12-0",
+      "post_id": 77,
+      "source": "За рулём",
+      "title": "«Улыбающееся лицо»: запатентован новый городской микрокар",
+      "link": "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/",
+      "published_at": "2026-11-11T22:01:24.384744+00:00"
     }
   ]
 }
