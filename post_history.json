@@ -16,7 +16,8 @@
     "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/",
     "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/",
     "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/",
-    "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/"
+    "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/",
+    "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/"
   ],
   "used_tags": [
     "Kia",
@@ -69,9 +70,12 @@
     "Грузовики",
     "АвтоТехнологии",
     "НовыеАвто",
-    "АвтоИндустрия"
+    "АвтоИндустрия",
+    "Автопроизводство",
+    "Автопром",
+    "Машины"
   ],
-  "last_slot": "2026-11-12-3",
+  "last_slot": "2026-11-12-4",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -208,6 +212,14 @@
       "title": "Рама, дизель, полный привод — брутальный внедорожник Nissan появился в России",
       "link": "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/",
       "published_at": "2026-11-12T01:36:58.418752+00:00"
+    },
+    {
+      "slot": "2026-11-12-4",
+      "post_id": 81,
+      "source": "За рулём",
+      "title": "На заводе Jeep в Канаде будут выпускать бронетехнику",
+      "link": "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/",
+      "published_at": "2026-11-12T02:29:26.281546+00:00"
     }
   ]
 }
