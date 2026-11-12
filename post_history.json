@@ -23,7 +23,8 @@
     "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/",
     "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm",
     "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/",
-    "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm"
+    "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm",
+    "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/"
   ],
   "used_tags": [
     "Kia",
@@ -97,9 +98,12 @@
     "АвтоНовостиСША",
     "АвтоГаджеты",
     "АвтоЭлектроника",
-    "КлассическиеАвто"
+    "КлассическиеАвто",
+    "Электрокары",
+    "Кроссоверы",
+    "Автодизайн"
   ],
-  "last_slot": "2026-11-12-10",
+  "last_slot": "2026-11-12-11",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -292,6 +296,14 @@
       "title": "Toyota сообщила, когда планирует возобновить поставки автомобилей в Россию",
       "link": "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm",
       "published_at": "2026-11-12T09:34:36.959056+00:00"
+    },
+    {
+      "slot": "2026-11-12-11",
+      "post_id": 88,
+      "source": "За рулём",
+      "title": "С автовладельца хотели получить 2 млн рублей за пустяковый ремонт",
+      "link": "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/",
+      "published_at": "2026-11-12T10:33:24.486563+00:00"
     }
   ]
 }
