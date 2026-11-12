@@ -30,7 +30,8 @@
     "https://motor.ru/news/volkswagen-vypustil-model-na-baze-kitaica-kotorogo-mozhno-kupit-i-v-rossii-12-11-2026.htm",
     "https://www.zr.ru/content/news/988384-sotni-odnotipnykh-kommentariev/",
     "https://www.zr.ru/content/news/988385-vannochka-dlya-nog-tualet-v-kre/",
-    "https://www.zr.ru/content/news/988387-shtraf-s-kamery-prishel-po-oshibk/"
+    "https://www.zr.ru/content/news/988387-shtraf-s-kamery-prishel-po-oshibk/",
+    "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/"
   ],
   "used_tags": [
     "Kia",
@@ -125,9 +126,12 @@
     "НовостиАвто",
     "АвтоРоссия",
     "АвтоМир",
-    "АвтоТренды"
+    "АвтоТренды",
+    "АвтоИспытания",
+    "КрашТест",
+    "ЭкспортАвто"
   ],
-  "last_slot": "2026-11-12-17",
+  "last_slot": "2026-11-12-18",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -376,6 +380,14 @@
       "title": "МВД ответило на вопрос об ошибочных штрафах с камер",
       "link": "https://www.zr.ru/content/news/988387-shtraf-s-kamery-prishel-po-oshibk/",
       "published_at": "2026-11-12T17:24:24.498876+00:00"
+    },
+    {
+      "slot": "2026-11-12-18",
+      "post_id": 94,
+      "source": "За рулём",
+      "title": "Новый мотоцикл Урал показали на видео — сколько такой стоит?",
+      "link": "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/",
+      "published_at": "2026-11-12T19:03:49.239954+00:00"
     }
   ]
 }
