@@ -17,7 +17,8 @@
     "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/",
     "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/",
     "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/",
-    "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/"
+    "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/",
+    "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/"
   ],
   "used_tags": [
     "Kia",
@@ -73,9 +74,12 @@
     "АвтоИндустрия",
     "Автопроизводство",
     "Автопром",
-    "Машины"
+    "Машины",
+    "Changan",
+    "Пикапы",
+    "Микроавтобусы"
   ],
-  "last_slot": "2026-11-12-4",
+  "last_slot": "2026-11-12-5",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -220,6 +224,14 @@
       "title": "На заводе Jeep в Канаде будут выпускать бронетехнику",
       "link": "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/",
       "published_at": "2026-11-12T02:29:26.281546+00:00"
+    },
+    {
+      "slot": "2026-11-12-5",
+      "post_id": 82,
+      "source": "За рулём",
+      "title": "Tenet T4L, Belgee X70, Changan CS35 Max — тест в цифрах",
+      "link": "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/",
+      "published_at": "2026-11-12T03:18:33.372464+00:00"
     }
   ]
 }
