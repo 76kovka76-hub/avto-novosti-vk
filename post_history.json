@@ -22,7 +22,8 @@
     "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/",
     "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/",
     "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm",
-    "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/"
+    "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/",
+    "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -93,9 +94,12 @@
     "АвтоНовостиДня",
     "Geely",
     "АвтоНовостиЕвропы",
-    "АвтоНовостиСША"
+    "АвтоНовостиСША",
+    "АвтоГаджеты",
+    "АвтоЭлектроника",
+    "КлассическиеАвто"
   ],
-  "last_slot": "2026-11-12-9",
+  "last_slot": "2026-11-12-10",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -280,6 +284,14 @@
       "title": "Geely создает в России особую сеть продаж электромобилей и гибридов",
       "link": "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/",
       "published_at": "2026-11-12T08:40:19.245978+00:00"
+    },
+    {
+      "slot": "2026-11-12-10",
+      "post_id": 87,
+      "source": "Motor",
+      "title": "Toyota сообщила, когда планирует возобновить поставки автомобилей в Россию",
+      "link": "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm",
+      "published_at": "2026-11-12T09:34:36.959056+00:00"
     }
   ]
 }
