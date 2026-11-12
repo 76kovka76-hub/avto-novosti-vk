@@ -20,7 +20,8 @@
     "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/",
     "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/",
     "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/",
-    "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/"
+    "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/",
+    "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -85,9 +86,12 @@
     "АвтоБизнес",
     "Мототехника",
     "МотоНовости",
-    "Автокультура"
+    "Автокультура",
+    "АвтоМаршруты",
+    "Парковка",
+    "АвтоНовостиДня"
   ],
-  "last_slot": "2026-11-12-7",
+  "last_slot": "2026-11-12-8",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -256,6 +260,14 @@
       "title": "Популярные модели «дочки» Honda получили особые комплектации: подробности",
       "link": "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/",
       "published_at": "2026-11-12T06:17:30.310023+00:00"
+    },
+    {
+      "slot": "2026-11-12-8",
+      "post_id": 85,
+      "source": "Motor",
+      "title": "Nissan даст скидку тем, кто поменяет Toyota RAV4 на X-Trail",
+      "link": "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm",
+      "published_at": "2026-11-12T07:38:54.013653+00:00"
     }
   ]
 }
