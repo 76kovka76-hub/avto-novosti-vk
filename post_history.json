@@ -32,7 +32,8 @@
     "https://www.zr.ru/content/news/988385-vannochka-dlya-nog-tualet-v-kre/",
     "https://www.zr.ru/content/news/988387-shtraf-s-kamery-prishel-po-oshibk/",
     "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/",
-    "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/"
+    "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/",
+    "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/"
   ],
   "used_tags": [
     "Kia",
@@ -133,9 +134,12 @@
     "ЭкспортАвто",
     "БезопасностьДвижения",
     "Топливо",
-    "Бензин"
+    "Бензин",
+    "Электромобили",
+    "АвтоЭкология",
+    "Транспорт"
   ],
-  "last_slot": "2026-11-12-19",
+  "last_slot": "2026-11-13-0",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -400,6 +404,14 @@
       "title": "Продажи этой китайской автомарки резко выросли в октябре",
       "link": "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/",
       "published_at": "2026-11-12T19:54:01.332740+00:00"
+    },
+    {
+      "slot": "2026-11-13-0",
+      "post_id": 97,
+      "source": "За рулём",
+      "title": "Розетки во дворе нет, цена перепродажи пугает: почему электрокары непопулярны",
+      "link": "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/",
+      "published_at": "2026-11-12T21:25:17.873691+00:00"
     }
   ]
 }
