@@ -1,0 +1,45 @@
+name: Chetkiy Yaroslavl VK publisher
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chetkij-yaroslavl-vk-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check schedule and publish one story
+        env:
+          YAROSLAVL_VK_TOKEN: ${{ secrets.YAROSLAVL_VK_TOKEN }}
+          YAROSLAVL_OPENAI_KEY: ${{ secrets.YAROSLAVL_OPENAI_KEY }}
+          YAROSLAVL_OPENAI_MODEL: gpt-4o-mini
+          DRY_RUN: "true"
+        run: python chetkij-yaroslavl/bot.py
+      - name: Save Yaroslavl history
+        if: success()
+        run: |
+          if [[ -n "$(git status --porcelain chetkij-yaroslavl/history.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add chetkij-yaroslavl/history.json
+            git commit -m "Update Yaroslavl publication history"
+            git pull --rebase
+            git push
+          fi
