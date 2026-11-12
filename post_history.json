@@ -28,7 +28,8 @@
     "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm",
     "https://motor.ru/news/ilon-mask-rasskazal-kogda-s-konveiera-soidet-poslednii-elektricheskii-pikap-tesla-cybertruck-12-11-2026.htm",
     "https://motor.ru/news/volkswagen-vypustil-model-na-baze-kitaica-kotorogo-mozhno-kupit-i-v-rossii-12-11-2026.htm",
-    "https://www.zr.ru/content/news/988384-sotni-odnotipnykh-kommentariev/"
+    "https://www.zr.ru/content/news/988384-sotni-odnotipnykh-kommentariev/",
+    "https://www.zr.ru/content/news/988385-vannochka-dlya-nog-tualet-v-kre/"
   ],
   "used_tags": [
     "Kia",
@@ -117,9 +118,12 @@
     "АвтоПродажи",
     "АвтоБезопасность",
     "АвтоЦены",
-    "ТестДрайв"
+    "ТестДрайв",
+    "АвтоОбзор",
+    "АвтоРынок",
+    "НовостиАвто"
   ],
-  "last_slot": "2026-11-12-15",
+  "last_slot": "2026-11-12-16",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -352,6 +356,14 @@
       "title": "Китайский автогигант взялся за интернет-троллей",
       "link": "https://www.zr.ru/content/news/988384-sotni-odnotipnykh-kommentariev/",
       "published_at": "2026-11-12T15:29:00.555056+00:00"
+    },
+    {
+      "slot": "2026-11-12-16",
+      "post_id": 92,
+      "source": "За рулём",
+      "title": "Ванночка для ног, туалет в кресле: самые странные автомобильные опции",
+      "link": "https://www.zr.ru/content/news/988385-vannochka-dlya-nog-tualet-v-kre/",
+      "published_at": "2026-11-12T16:29:25.507635+00:00"
     }
   ]
 }
