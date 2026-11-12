@@ -24,7 +24,8 @@
     "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm",
     "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/",
     "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm",
-    "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/"
+    "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/",
+    "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -101,9 +102,12 @@
     "КлассическиеАвто",
     "Электрокары",
     "Кроссоверы",
-    "Автодизайн"
+    "Автодизайн",
+    "Дилеры",
+    "Автодилеры",
+    "ИмпортАвто"
   ],
-  "last_slot": "2026-11-12-11",
+  "last_slot": "2026-11-12-12",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -304,6 +308,14 @@
       "title": "С автовладельца хотели получить 2 млн рублей за пустяковый ремонт",
       "link": "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/",
       "published_at": "2026-11-12T10:33:24.486563+00:00"
+    },
+    {
+      "slot": "2026-11-12-12",
+      "post_id": 89,
+      "source": "Motor",
+      "title": "Lynk & Co представила семиместный флагман с вращающимися креслами",
+      "link": "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm",
+      "published_at": "2026-11-12T11:28:39.743534+00:00"
     }
   ]
 }
