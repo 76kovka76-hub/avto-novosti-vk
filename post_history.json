@@ -26,7 +26,8 @@
     "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm",
     "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/",
     "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm",
-    "https://motor.ru/news/ilon-mask-rasskazal-kogda-s-konveiera-soidet-poslednii-elektricheskii-pikap-tesla-cybertruck-12-11-2026.htm"
+    "https://motor.ru/news/ilon-mask-rasskazal-kogda-s-konveiera-soidet-poslednii-elektricheskii-pikap-tesla-cybertruck-12-11-2026.htm",
+    "https://motor.ru/news/volkswagen-vypustil-model-na-baze-kitaica-kotorogo-mozhno-kupit-i-v-rossii-12-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -109,9 +110,12 @@
     "ИмпортАвто",
     "РетроАвто",
     "КонцептКары",
-    "Автопремьеры"
+    "Автопремьеры",
+    "Volkswagen",
+    "АвтоПроизводство",
+    "АвтоПродажи"
   ],
-  "last_slot": "2026-11-12-13",
+  "last_slot": "2026-11-12-14",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -328,6 +332,14 @@
       "title": "Илон Маск рассказал, когда с конвейера сойдет последний электрический пикап Tesla Cybertruck",
       "link": "https://motor.ru/news/ilon-mask-rasskazal-kogda-s-konveiera-soidet-poslednii-elektricheskii-pikap-tesla-cybertruck-12-11-2026.htm",
       "published_at": "2026-11-12T13:39:08.894519+00:00"
+    },
+    {
+      "slot": "2026-11-12-14",
+      "post_id": 1,
+      "source": "Motor",
+      "title": "Volkswagen выпустил модель на базе «китайца», которого можно купить и в России",
+      "link": "https://motor.ru/news/volkswagen-vypustil-model-na-baze-kitaica-kotorogo-mozhno-kupit-i-v-rossii-12-11-2026.htm",
+      "published_at": "2026-11-12T14:23:51.640653+00:00"
     }
   ]
 }
