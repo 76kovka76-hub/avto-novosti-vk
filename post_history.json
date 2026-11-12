@@ -21,7 +21,8 @@
     "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/",
     "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/",
     "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/",
-    "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm"
+    "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm",
+    "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/"
   ],
   "used_tags": [
     "Kia",
@@ -89,9 +90,12 @@
     "Автокультура",
     "АвтоМаршруты",
     "Парковка",
-    "АвтоНовостиДня"
+    "АвтоНовостиДня",
+    "Geely",
+    "АвтоНовостиЕвропы",
+    "АвтоНовостиСША"
   ],
-  "last_slot": "2026-11-12-8",
+  "last_slot": "2026-11-12-9",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -268,6 +272,14 @@
       "title": "Nissan даст скидку тем, кто поменяет Toyota RAV4 на X-Trail",
       "link": "https://motor.ru/news/nissan-dast-skidku-tem-kto-pomenyaet-toyota-rav4-na-x-trail-12-11-2026.htm",
       "published_at": "2026-11-12T07:38:54.013653+00:00"
+    },
+    {
+      "slot": "2026-11-12-9",
+      "post_id": 86,
+      "source": "За рулём",
+      "title": "Geely создает в России особую сеть продаж электромобилей и гибридов",
+      "link": "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/",
+      "published_at": "2026-11-12T08:40:19.245978+00:00"
     }
   ]
 }
