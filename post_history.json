@@ -34,7 +34,8 @@
     "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/",
     "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/",
     "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/",
-    "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/"
+    "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/",
+    "https://www.zr.ru/content/news/988416-fizicheskie-knopki-vozvrashchayutsya/"
   ],
   "used_tags": [
     "Kia",
@@ -141,9 +142,12 @@
     "Транспорт",
     "ЦеныНаАвто",
     "АвтоЛогистика",
-    "АвтоСпрос"
+    "АвтоСпрос",
+    "АвтоБудущее",
+    "Гибриды",
+    "Внедорожники"
   ],
-  "last_slot": "2026-11-13-1",
+  "last_slot": "2026-11-13-2",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -424,6 +428,14 @@
       "title": "Цена литра падает, но не везде: в каких регионах бензин все еще дорожает",
       "link": "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/",
       "published_at": "2026-11-12T22:53:07.730648+00:00"
+    },
+    {
+      "slot": "2026-11-13-2",
+      "post_id": 99,
+      "source": "За рулём",
+      "title": "Совершенно новый Сандеро готовится к выходу на рынок: что о нем известно?",
+      "link": "https://www.zr.ru/content/news/988416-fizicheskie-knopki-vozvrashchayutsya/",
+      "published_at": "2026-11-12T23:27:40.197328+00:00"
     }
   ]
 }
