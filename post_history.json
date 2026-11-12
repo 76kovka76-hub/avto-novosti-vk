@@ -25,7 +25,8 @@
     "https://www.zr.ru/content/news/988394-geely-sozdaet-v-rossii-osobuyu/",
     "https://motor.ru/news/toyota-soobshila-kogda-planiruet-vozobnovit-postavki-avtomobilei-v-rossiyu-12-11-2026.htm",
     "https://www.zr.ru/content/news/988380-skrezhet-v-toyota-tundra-mog-ob/",
-    "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm"
+    "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm",
+    "https://motor.ru/news/ilon-mask-rasskazal-kogda-s-konveiera-soidet-poslednii-elektricheskii-pikap-tesla-cybertruck-12-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -105,9 +106,12 @@
     "Автодизайн",
     "Дилеры",
     "Автодилеры",
-    "ИмпортАвто"
+    "ИмпортАвто",
+    "РетроАвто",
+    "КонцептКары",
+    "Автопремьеры"
   ],
-  "last_slot": "2026-11-12-12",
+  "last_slot": "2026-11-12-13",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -316,6 +320,14 @@
       "title": "Lynk & Co представила семиместный флагман с вращающимися креслами",
       "link": "https://motor.ru/news/lynk-and-co-predstavila-semimestnyi-flagman-s-vrashayushimisya-kreslami-12-11-2026.htm",
       "published_at": "2026-11-12T11:28:39.743534+00:00"
+    },
+    {
+      "slot": "2026-11-12-13",
+      "post_id": 90,
+      "source": "Motor",
+      "title": "Илон Маск рассказал, когда с конвейера сойдет последний электрический пикап Tesla Cybertruck",
+      "link": "https://motor.ru/news/ilon-mask-rasskazal-kogda-s-konveiera-soidet-poslednii-elektricheskii-pikap-tesla-cybertruck-12-11-2026.htm",
+      "published_at": "2026-11-12T13:39:08.894519+00:00"
     }
   ]
 }
