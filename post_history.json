@@ -33,7 +33,8 @@
     "https://www.zr.ru/content/news/988387-shtraf-s-kamery-prishel-po-oshibk/",
     "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/",
     "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/",
-    "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/"
+    "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/",
+    "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/"
   ],
   "used_tags": [
     "Kia",
@@ -137,9 +138,12 @@
     "Бензин",
     "Электромобили",
     "АвтоЭкология",
-    "Транспорт"
+    "Транспорт",
+    "ЦеныНаАвто",
+    "АвтоЛогистика",
+    "АвтоСпрос"
   ],
-  "last_slot": "2026-11-13-0",
+  "last_slot": "2026-11-13-1",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -412,6 +416,14 @@
       "title": "Розетки во дворе нет, цена перепродажи пугает: почему электрокары непопулярны",
       "link": "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/",
       "published_at": "2026-11-12T21:25:17.873691+00:00"
+    },
+    {
+      "slot": "2026-11-13-1",
+      "post_id": 98,
+      "source": "За рулём",
+      "title": "Цена литра падает, но не везде: в каких регионах бензин все еще дорожает",
+      "link": "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/",
+      "published_at": "2026-11-12T22:53:07.730648+00:00"
     }
   ]
 }
