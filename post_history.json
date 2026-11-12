@@ -15,7 +15,8 @@
     "https://www.zr.ru/content/news/988330-dalnyaya-poezdka-na-ehlektromobi/",
     "https://www.zr.ru/content/news/988331-ulybayushcheesya-litso-i-nizkaya-po/",
     "https://www.zr.ru/content/news/988349-tonkie-diski-pri-tselykh-kolodka/",
-    "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/"
+    "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/",
+    "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/"
   ],
   "used_tags": [
     "Kia",
@@ -65,9 +66,12 @@
     "Volvo",
     "АвтоСервис",
     "АвтоРемонт",
-    "Грузовики"
+    "Грузовики",
+    "АвтоТехнологии",
+    "НовыеАвто",
+    "АвтоИндустрия"
   ],
-  "last_slot": "2026-11-12-2",
+  "last_slot": "2026-11-12-3",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -196,6 +200,14 @@
       "title": "В России появился просторный полноприводный кроссовер Nissan с ценой «китайцев»",
       "link": "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/",
       "published_at": "2026-11-11T23:30:40.517407+00:00"
+    },
+    {
+      "slot": "2026-11-12-3",
+      "post_id": 80,
+      "source": "За рулём",
+      "title": "Рама, дизель, полный привод — брутальный внедорожник Nissan появился в России",
+      "link": "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/",
+      "published_at": "2026-11-12T01:36:58.418752+00:00"
     }
   ]
 }
