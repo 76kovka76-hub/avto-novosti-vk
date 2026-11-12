@@ -19,7 +19,8 @@
     "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/",
     "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/",
     "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/",
-    "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/"
+    "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/",
+    "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/"
   ],
   "used_tags": [
     "Kia",
@@ -81,9 +82,12 @@
     "Микроавтобусы",
     "Дизель",
     "АвтоЭкономика",
-    "АвтоБизнес"
+    "АвтоБизнес",
+    "Мототехника",
+    "МотоНовости",
+    "Автокультура"
   ],
-  "last_slot": "2026-11-12-6",
+  "last_slot": "2026-11-12-7",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -244,6 +248,14 @@
       "title": "Как выбрать свой первый автомобиль: ключевые критерии",
       "link": "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/",
       "published_at": "2026-11-12T04:16:41.554973+00:00"
+    },
+    {
+      "slot": "2026-11-12-7",
+      "post_id": 84,
+      "source": "За рулём",
+      "title": "Популярные модели «дочки» Honda получили особые комплектации: подробности",
+      "link": "https://www.zr.ru/content/news/988371-seryj-kuzov-i-chernyj-dekor-za/",
+      "published_at": "2026-11-12T06:17:30.310023+00:00"
     }
   ]
 }
