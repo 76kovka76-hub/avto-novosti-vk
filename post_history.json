@@ -31,7 +31,8 @@
     "https://www.zr.ru/content/news/988384-sotni-odnotipnykh-kommentariev/",
     "https://www.zr.ru/content/news/988385-vannochka-dlya-nog-tualet-v-kre/",
     "https://www.zr.ru/content/news/988387-shtraf-s-kamery-prishel-po-oshibk/",
-    "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/"
+    "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/",
+    "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/"
   ],
   "used_tags": [
     "Kia",
@@ -129,9 +130,12 @@
     "АвтоТренды",
     "АвтоИспытания",
     "КрашТест",
-    "ЭкспортАвто"
+    "ЭкспортАвто",
+    "БезопасностьДвижения",
+    "Топливо",
+    "Бензин"
   ],
-  "last_slot": "2026-11-12-18",
+  "last_slot": "2026-11-12-19",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -388,6 +392,14 @@
       "title": "Новый мотоцикл Урал показали на видео — сколько такой стоит?",
       "link": "https://www.zr.ru/content/news/988437-novyj-mototsikl-ural-pokazali-n/",
       "published_at": "2026-11-12T19:03:49.239954+00:00"
+    },
+    {
+      "slot": "2026-11-12-19",
+      "post_id": 95,
+      "source": "За рулём",
+      "title": "Продажи этой китайской автомарки резко выросли в октябре",
+      "link": "https://www.zr.ru/content/news/988389-kogda-to-samyj-prodavaemyj-eh/",
+      "published_at": "2026-11-12T19:54:01.332740+00:00"
     }
   ]
 }
