@@ -18,7 +18,8 @@
     "https://www.zr.ru/content/news/988354-trekhryadnyj-nissan-za-485-mln/",
     "https://www.zr.ru/content/news/988374-pikap-s-probegom-1-km-v-rossi/",
     "https://www.zr.ru/content/news/988324-kanada-riskuet-poteryat-desyatk/",
-    "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/"
+    "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/",
+    "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/"
   ],
   "used_tags": [
     "Kia",
@@ -77,9 +78,12 @@
     "Машины",
     "Changan",
     "Пикапы",
-    "Микроавтобусы"
+    "Микроавтобусы",
+    "Дизель",
+    "АвтоЭкономика",
+    "АвтоБизнес"
   ],
-  "last_slot": "2026-11-12-5",
+  "last_slot": "2026-11-12-6",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -232,6 +236,14 @@
       "title": "Tenet T4L, Belgee X70, Changan CS35 Max — тест в цифрах",
       "link": "https://www.zr.ru/content/articles/988291-tenet-t4l-belgee-x70-changan-cs35-max-test-v-cifrah/",
       "published_at": "2026-11-12T03:18:33.372464+00:00"
+    },
+    {
+      "slot": "2026-11-12-6",
+      "post_id": 83,
+      "source": "За рулём",
+      "title": "Как выбрать свой первый автомобиль: ключевые критерии",
+      "link": "https://www.zr.ru/content/articles/988370-nazvany-klyuchevye-kriterii-vybo/",
+      "published_at": "2026-11-12T04:16:41.554973+00:00"
     }
   ]
 }
