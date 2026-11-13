@@ -42,7 +42,8 @@
     "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/",
     "https://www.zr.ru/content/news/988423-mitsubishi-pajero-vozvrashchaetsya/",
     "https://motor.ru/news/premium-versiyu-geely-monjaro-s-dizainom-v-stile-maybach-budut-prodavat-za-2-8-mln-rublei-13-11-2026.htm",
-    "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm"
+    "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm",
+    "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -173,9 +174,12 @@
     "АвтоИнновации",
     "Mercedes",
     "Автопроизводство",
-    "ЯпонскиеАвто"
+    "ЯпонскиеАвто",
+    "ДорожныеНовости",
+    "РоссийскийАвтопром",
+    "КитайскиеАвто"
   ],
-  "last_slot": "2026-11-13-9",
+  "last_slot": "2026-11-13-10",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -520,6 +524,14 @@
       "title": "Mercedes-Benz прекратил вкладывать деньги в немецкие заводы",
       "link": "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm",
       "published_at": "2026-11-13T08:41:38.573715+00:00"
+    },
+    {
+      "slot": "2026-11-13-10",
+      "post_id": 107,
+      "source": "Motor",
+      "title": "Автоэксперт Хайцеэр перечислил главные опасности покупки восстановленного после ДТП автомобиля",
+      "link": "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm",
+      "published_at": "2026-11-13T09:37:41.081124+00:00"
     }
   ]
 }
