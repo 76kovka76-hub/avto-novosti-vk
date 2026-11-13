@@ -49,7 +49,8 @@
     "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm",
     "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/",
     "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/",
-    "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/"
+    "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/",
+    "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -201,9 +202,12 @@
     "АвтоРазработка",
     "АвтоПутешествия",
     "Автотуризм",
-    "АвтоМаршруты"
+    "АвтоМаршруты",
+    "АвтоСвязь",
+    "АвтоРынокРоссии",
+    "МировойАвторынок"
   ],
-  "last_slot": "2026-11-13-16",
+  "last_slot": "2026-11-13-17",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -604,6 +608,14 @@
       "title": "Самый популярный хэтчбек Китая сертифицировали для РФ",
       "link": "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/",
       "published_at": "2026-11-13T16:51:52.109398+00:00"
+    },
+    {
+      "slot": "2026-11-13-17",
+      "post_id": 117,
+      "source": "Motor",
+      "title": "«ЭРА-ГЛОНАСС»: по российским дорогам ездят сотни беспилотных автомобилей",
+      "link": "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm",
+      "published_at": "2026-11-13T17:36:52.604662+00:00"
     }
   ]
 }
