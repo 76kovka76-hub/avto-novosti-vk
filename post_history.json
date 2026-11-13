@@ -39,7 +39,8 @@
     "https://www.zr.ru/content/news/988422-benzin-dizel-ili-ehlektromoto/",
     "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/",
     "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/",
-    "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/"
+    "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/",
+    "https://www.zr.ru/content/news/988423-mitsubishi-pajero-vozvrashchaetsya/"
   ],
   "used_tags": [
     "Kia",
@@ -161,9 +162,12 @@
     "Hyundai",
     "АвтоНовостиРоссии",
     "АвтоНовостиКитая",
-    "АвтоНовостиЯпонии"
+    "АвтоНовостиЯпонии",
+    "Шины",
+    "АвтоЗапчасти",
+    "АвтоАксессуары"
   ],
-  "last_slot": "2026-11-13-6",
+  "last_slot": "2026-11-13-7",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -484,6 +488,14 @@
       "title": "Ремонт дороже машины: какие автомобили выгоднее списать",
       "link": "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/",
       "published_at": "2026-11-13T04:35:53.498691+00:00"
+    },
+    {
+      "slot": "2026-11-13-7",
+      "post_id": 104,
+      "source": "За рулём",
+      "title": "Mitsubishi Pajero возвращается: ажиотаж в Японии и туманные перспективы в Европе",
+      "link": "https://www.zr.ru/content/news/988423-mitsubishi-pajero-vozvrashchaetsya/",
+      "published_at": "2026-11-13T05:34:12.430859+00:00"
     }
   ]
 }
