@@ -45,7 +45,8 @@
     "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm",
     "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm",
     "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm",
-    "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm"
+    "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm",
+    "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -185,9 +186,12 @@
     "Дизель",
     "АвтоТехнологии",
     "НовыеАвто",
-    "АвтоИндустрия"
+    "АвтоИндустрия",
+    "Микроавтобусы",
+    "Мототехника",
+    "МотоНовости"
   ],
-  "last_slot": "2026-11-13-12",
+  "last_slot": "2026-11-13-13",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -556,6 +560,14 @@
       "title": "Volkswagen начал выпуск автомобилей под новой маркой Scout",
       "link": "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm",
       "published_at": "2026-11-13T11:29:25.112622+00:00"
+    },
+    {
+      "slot": "2026-11-13-13",
+      "post_id": 111,
+      "source": "Motor",
+      "title": "Ещё один крупный автопроизводитель отказался от экранов в пользу кнопок",
+      "link": "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm",
+      "published_at": "2026-11-13T13:36:01.351140+00:00"
     }
   ]
 }
