@@ -44,7 +44,8 @@
     "https://motor.ru/news/premium-versiyu-geely-monjaro-s-dizainom-v-stile-maybach-budut-prodavat-za-2-8-mln-rublei-13-11-2026.htm",
     "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm",
     "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm",
-    "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm"
+    "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm",
+    "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -181,9 +182,12 @@
     "КитайскиеАвто",
     "Автокультура",
     "КлассическиеАвто",
-    "Дизель"
+    "Дизель",
+    "АвтоТехнологии",
+    "НовыеАвто",
+    "АвтоИндустрия"
   ],
-  "last_slot": "2026-11-13-11",
+  "last_slot": "2026-11-13-12",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -544,6 +548,14 @@
       "title": "«Франкенштейн» из Чертанова: в Москве продают ВАЗ-21099 с задним приводом",
       "link": "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm",
       "published_at": "2026-11-13T10:35:38.522282+00:00"
+    },
+    {
+      "slot": "2026-11-13-12",
+      "post_id": 109,
+      "source": "Motor",
+      "title": "Volkswagen начал выпуск автомобилей под новой маркой Scout",
+      "link": "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm",
+      "published_at": "2026-11-13T11:29:25.112622+00:00"
     }
   ]
 }
