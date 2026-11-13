@@ -50,7 +50,8 @@
     "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/",
     "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/",
     "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/",
-    "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm"
+    "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm",
+    "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/"
   ],
   "used_tags": [
     "Kia",
@@ -205,9 +206,12 @@
     "АвтоМаршруты",
     "АвтоСвязь",
     "АвтоРынокРоссии",
-    "МировойАвторынок"
+    "МировойАвторынок",
+    "Автоспорт",
+    "Автозакон",
+    "АвтоБезопасность"
   ],
-  "last_slot": "2026-11-13-17",
+  "last_slot": "2026-11-13-18",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -616,6 +620,14 @@
       "title": "«ЭРА-ГЛОНАСС»: по российским дорогам ездят сотни беспилотных автомобилей",
       "link": "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm",
       "published_at": "2026-11-13T17:36:52.604662+00:00"
+    },
+    {
+      "slot": "2026-11-13-18",
+      "post_id": 118,
+      "source": "За рулём",
+      "title": "Mercedes научит автомобили самостоятельно стартовать со светофора",
+      "link": "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/",
+      "published_at": "2026-11-13T19:23:33.163238+00:00"
     }
   ]
 }
