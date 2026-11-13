@@ -54,7 +54,8 @@
     "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/",
     "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/",
     "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/",
-    "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/"
+    "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/",
+    "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/"
   ],
   "used_tags": [
     "Kia",
@@ -221,9 +222,12 @@
     "Мобильность",
     "АвтоПлатформы",
     "Аккумуляторы",
-    "ЗарядныеСтанции"
+    "ЗарядныеСтанции",
+    "Дороги",
+    "Грузовики",
+    "Пикапы"
   ],
-  "last_slot": "2026-11-14-1",
+  "last_slot": "2026-11-14-2",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -664,6 +668,14 @@
       "title": "Парковочные тарифы будут скорректированы на ряде улиц Москвы",
       "link": "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/",
       "published_at": "2026-11-13T22:27:15.356630+00:00"
+    },
+    {
+      "slot": "2026-11-14-2",
+      "post_id": 124,
+      "source": "За рулём",
+      "title": "На рынок вышел новый кроссовер с внешностью Land Rover и ценой Лады Весты",
+      "link": "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/",
+      "published_at": "2026-11-13T23:44:01.216527+00:00"
     }
   ]
 }
