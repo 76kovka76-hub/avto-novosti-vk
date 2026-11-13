@@ -11,6 +11,8 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
+from news_quality import is_self_contained_news, mentions_missing_media, source_url
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 TZ = ZoneInfo("Europe/Moscow")
 GROUP_ID = os.environ.get("VK_GROUP_ID", "242840147").strip()
@@ -122,7 +124,10 @@ def get_news(history):
             logging.info("%s: загружено новостей: %d", name, len(items))
             for item in items:
                 age = now - item["published"]
-                if item["link"] not in used and timedelta(0) <= age <= timedelta(hours=MAX_AGE_HOURS):
+                if (item["link"] not in used
+                        and timedelta(0) <= age <= timedelta(hours=MAX_AGE_HOURS)
+                        and is_self_contained_news(item["title"])
+                        and source_url(item["link"])):
                     found.append(item)
         except Exception as exc:
             logging.warning("Не удалось загрузить ленту %s: %s", name, exc)
@@ -234,10 +239,20 @@ def main():
     if not news:
         logging.warning("Нет свежей уникальной новости за последние %s часов — ничего не публикуем.", MAX_AGE_HOURS)
         return
-    item = news[0]
-    sentence = make_sentence(item["title"])
+    # Choose the first complete text-only story; never post an arbitrary teaser.
+    selected = None
+    for candidate in news:
+        sentence = make_sentence(candidate["title"])
+        link = source_url(candidate["link"])
+        if link and is_self_contained_news(sentence) and not mentions_missing_media(sentence):
+            selected = (candidate, sentence, link)
+            break
+    if selected is None:
+        logging.info("Связных самодостаточных текстовых новостей нет, публикация пропущена.")
+        return
+    item, sentence, link = selected
     tags = make_tags(item, slot_key, history)
-    message = sentence + "\n\n" + " ".join(tags)
+    message = sentence + "\n\n" + " ".join(tags) + "\n\nИсточник: " + link
     random_id = int(hashlib.sha256(slot_key.encode()).hexdigest()[:8], 16)
     post_id = vk_post(message, random_id)
     history["used_links"].append(item["link"])
