@@ -38,7 +38,8 @@
     "https://www.zr.ru/content/news/988416-fizicheskie-knopki-vozvrashchayutsya/",
     "https://www.zr.ru/content/news/988422-benzin-dizel-ili-ehlektromoto/",
     "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/",
-    "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/"
+    "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/",
+    "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/"
   ],
   "used_tags": [
     "Kia",
@@ -157,9 +158,12 @@
     "Трансмиссия",
     "BMW",
     "MercedesBenz",
-    "Hyundai"
+    "Hyundai",
+    "АвтоНовостиРоссии",
+    "АвтоНовостиКитая",
+    "АвтоНовостиЯпонии"
   ],
-  "last_slot": "2026-11-13-5",
+  "last_slot": "2026-11-13-6",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -472,6 +476,14 @@
       "title": "Мощный мотор, скромный расход: новый кроссовер за 2,5 млн рублей",
       "link": "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/",
       "published_at": "2026-11-13T03:37:32.020607+00:00"
+    },
+    {
+      "slot": "2026-11-13-6",
+      "post_id": 103,
+      "source": "За рулём",
+      "title": "Ремонт дороже машины: какие автомобили выгоднее списать",
+      "link": "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/",
+      "published_at": "2026-11-13T04:35:53.498691+00:00"
     }
   ]
 }
