@@ -51,7 +51,8 @@
     "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/",
     "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/",
     "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm",
-    "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/"
+    "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/",
+    "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/"
   ],
   "used_tags": [
     "Kia",
@@ -209,9 +210,12 @@
     "МировойАвторынок",
     "Автоспорт",
     "Автозакон",
-    "АвтоБезопасность"
+    "АвтоБезопасность",
+    "Дилеры",
+    "Автодилеры",
+    "ИмпортАвто"
   ],
-  "last_slot": "2026-11-13-18",
+  "last_slot": "2026-11-13-19",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -628,6 +632,14 @@
       "title": "Mercedes научит автомобили самостоятельно стартовать со светофора",
       "link": "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/",
       "published_at": "2026-11-13T19:23:33.163238+00:00"
+    },
+    {
+      "slot": "2026-11-13-19",
+      "post_id": 119,
+      "source": "За рулём",
+      "title": "Раритетный Лэнд Крузер сняли с хранения и выставили на продажу в РФ: цена удивит",
+      "link": "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/",
+      "published_at": "2026-11-13T20:14:30.305841+00:00"
     }
   ]
 }
