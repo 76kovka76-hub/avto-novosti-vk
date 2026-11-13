@@ -37,7 +37,8 @@
     "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/",
     "https://www.zr.ru/content/news/988416-fizicheskie-knopki-vozvrashchayutsya/",
     "https://www.zr.ru/content/news/988422-benzin-dizel-ili-ehlektromoto/",
-    "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/"
+    "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/",
+    "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/"
   ],
   "used_tags": [
     "Kia",
@@ -153,9 +154,12 @@
     "АвтоНовостиМира",
     "Двигатели",
     "АвтоМоторы",
-    "Трансмиссия"
+    "Трансмиссия",
+    "BMW",
+    "MercedesBenz",
+    "Hyundai"
   ],
-  "last_slot": "2026-11-13-4",
+  "last_slot": "2026-11-13-5",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -460,6 +464,14 @@
       "title": "В России резко вырос спрос на кроссоверы возрожденной российской марки",
       "link": "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/",
       "published_at": "2026-11-13T02:10:00.417380+00:00"
+    },
+    {
+      "slot": "2026-11-13-5",
+      "post_id": 102,
+      "source": "За рулём",
+      "title": "Мощный мотор, скромный расход: новый кроссовер за 2,5 млн рублей",
+      "link": "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/",
+      "published_at": "2026-11-13T03:37:32.020607+00:00"
     }
   ]
 }
