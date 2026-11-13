@@ -43,7 +43,8 @@
     "https://www.zr.ru/content/news/988423-mitsubishi-pajero-vozvrashchaetsya/",
     "https://motor.ru/news/premium-versiyu-geely-monjaro-s-dizainom-v-stile-maybach-budut-prodavat-za-2-8-mln-rublei-13-11-2026.htm",
     "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm",
-    "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm"
+    "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm",
+    "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -177,9 +178,12 @@
     "ЯпонскиеАвто",
     "ДорожныеНовости",
     "РоссийскийАвтопром",
-    "КитайскиеАвто"
+    "КитайскиеАвто",
+    "Автокультура",
+    "КлассическиеАвто",
+    "Дизель"
   ],
-  "last_slot": "2026-11-13-10",
+  "last_slot": "2026-11-13-11",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -532,6 +536,14 @@
       "title": "Автоэксперт Хайцеэр перечислил главные опасности покупки восстановленного после ДТП автомобиля",
       "link": "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm",
       "published_at": "2026-11-13T09:37:41.081124+00:00"
+    },
+    {
+      "slot": "2026-11-13-11",
+      "post_id": 108,
+      "source": "Motor",
+      "title": "«Франкенштейн» из Чертанова: в Москве продают ВАЗ-21099 с задним приводом",
+      "link": "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm",
+      "published_at": "2026-11-13T10:35:38.522282+00:00"
     }
   ]
 }
