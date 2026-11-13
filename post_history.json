@@ -47,7 +47,8 @@
     "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm",
     "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm",
     "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm",
-    "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/"
+    "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/",
+    "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/"
   ],
   "used_tags": [
     "Kia",
@@ -193,9 +194,12 @@
     "МотоНовости",
     "Электрокары",
     "Кроссоверы",
-    "Седаны"
+    "Седаны",
+    "АвтоНовостиЕвропы",
+    "АвтоНовостиСША",
+    "АвтоРазработка"
   ],
-  "last_slot": "2026-11-13-14",
+  "last_slot": "2026-11-13-15",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -580,6 +584,14 @@
       "title": "В России начали выпускать популярную модель Tank",
       "link": "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/",
       "published_at": "2026-11-13T14:30:08.478135+00:00"
+    },
+    {
+      "slot": "2026-11-13-15",
+      "post_id": 113,
+      "source": "За рулём",
+      "title": "Фадеева: Volga продолжит работу над созданием новых моделей",
+      "link": "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/",
+      "published_at": "2026-11-13T15:15:49.094701+00:00"
     }
   ]
 }
