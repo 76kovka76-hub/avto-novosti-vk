@@ -46,7 +46,8 @@
     "https://motor.ru/news/avtoekspert-khaiceer-perechislil-glavnye-opasnosti-pokupki-vosstanovlennogo-posle-dtp-avtomobilya-13-11-2026.htm",
     "https://motor.ru/news/frankenshtein-iz-chertanova-v-moskve-prodayut-vaz-21099-s-zadnim-privodom-13-11-2026.htm",
     "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm",
-    "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm"
+    "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm",
+    "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/"
   ],
   "used_tags": [
     "Kia",
@@ -189,9 +190,12 @@
     "АвтоИндустрия",
     "Микроавтобусы",
     "Мототехника",
-    "МотоНовости"
+    "МотоНовости",
+    "Электрокары",
+    "Кроссоверы",
+    "Седаны"
   ],
-  "last_slot": "2026-11-13-13",
+  "last_slot": "2026-11-13-14",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -568,6 +572,14 @@
       "title": "Ещё один крупный автопроизводитель отказался от экранов в пользу кнопок",
       "link": "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm",
       "published_at": "2026-11-13T13:36:01.351140+00:00"
+    },
+    {
+      "slot": "2026-11-13-14",
+      "post_id": 112,
+      "source": "За рулём",
+      "title": "В России начали выпускать популярную модель Tank",
+      "link": "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/",
+      "published_at": "2026-11-13T14:30:08.478135+00:00"
     }
   ]
 }
