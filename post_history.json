@@ -36,7 +36,8 @@
     "https://www.zr.ru/content/news/988390-rozetki-vo-dvore-net-a-tsena-p/",
     "https://www.zr.ru/content/news/988391-tsena-litra-padaet-no-ne-vezde/",
     "https://www.zr.ru/content/news/988416-fizicheskie-knopki-vozvrashchayutsya/",
-    "https://www.zr.ru/content/news/988422-benzin-dizel-ili-ehlektromoto/"
+    "https://www.zr.ru/content/news/988422-benzin-dizel-ili-ehlektromoto/",
+    "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/"
   ],
   "used_tags": [
     "Kia",
@@ -149,9 +150,12 @@
     "Внедорожники",
     "Chery",
     "АвтоСтатистика",
-    "АвтоНовостиМира"
+    "АвтоНовостиМира",
+    "Двигатели",
+    "АвтоМоторы",
+    "Трансмиссия"
   ],
-  "last_slot": "2026-11-13-3",
+  "last_slot": "2026-11-13-4",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -448,6 +452,14 @@
       "title": "Chery привезет в Россию суровый современный рамник: что об этом известно?",
       "link": "https://www.zr.ru/content/news/988422-benzin-dizel-ili-ehlektromoto/",
       "published_at": "2026-11-13T01:10:31.668007+00:00"
+    },
+    {
+      "slot": "2026-11-13-4",
+      "post_id": 101,
+      "source": "За рулём",
+      "title": "В России резко вырос спрос на кроссоверы возрожденной российской марки",
+      "link": "https://www.zr.ru/content/news/988392-spros-vyros-pochti-vdvoe-za-mes/",
+      "published_at": "2026-11-13T02:10:00.417380+00:00"
     }
   ]
 }
