@@ -52,7 +52,8 @@
     "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/",
     "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm",
     "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/",
-    "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/"
+    "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/",
+    "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/"
   ],
   "used_tags": [
     "Kia",
@@ -213,9 +214,12 @@
     "АвтоБезопасность",
     "Дилеры",
     "Автодилеры",
-    "ИмпортАвто"
+    "ИмпортАвто",
+    "АвтоТюнинг",
+    "Автокомпоненты",
+    "Мобильность"
   ],
-  "last_slot": "2026-11-13-19",
+  "last_slot": "2026-11-14-0",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -640,6 +644,14 @@
       "title": "Раритетный Лэнд Крузер сняли с хранения и выставили на продажу в РФ: цена удивит",
       "link": "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/",
       "published_at": "2026-11-13T20:14:30.305841+00:00"
+    },
+    {
+      "slot": "2026-11-14-0",
+      "post_id": 122,
+      "source": "За рулём",
+      "title": "424 л.с. и 220 км на электротяге: в РФ привезли полноприводный гибридный седан",
+      "link": "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/",
+      "published_at": "2026-11-13T21:01:45.341127+00:00"
     }
   ]
 }
