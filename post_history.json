@@ -53,7 +53,8 @@
     "https://motor.ru/news/era-glonass-po-rossiiskim-dorogam-ezdyat-sotni-bespilotnykh-avtomobilei-13-11-2026.htm",
     "https://www.zr.ru/content/news/988452-pravo-pervoj-sekundy-mercedes/",
     "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/",
-    "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/"
+    "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/",
+    "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/"
   ],
   "used_tags": [
     "Kia",
@@ -217,9 +218,12 @@
     "ИмпортАвто",
     "АвтоТюнинг",
     "Автокомпоненты",
-    "Мобильность"
+    "Мобильность",
+    "АвтоПлатформы",
+    "Аккумуляторы",
+    "ЗарядныеСтанции"
   ],
-  "last_slot": "2026-11-14-0",
+  "last_slot": "2026-11-14-1",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -652,6 +656,14 @@
       "title": "424 л.с. и 220 км на электротяге: в РФ привезли полноприводный гибридный седан",
       "link": "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/",
       "published_at": "2026-11-13T21:01:45.341127+00:00"
+    },
+    {
+      "slot": "2026-11-14-1",
+      "post_id": 123,
+      "source": "За рулём",
+      "title": "Парковочные тарифы будут скорректированы на ряде улиц Москвы",
+      "link": "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/",
+      "published_at": "2026-11-13T22:27:15.356630+00:00"
     }
   ]
 }
