@@ -41,7 +41,8 @@
     "https://www.zr.ru/content/articles/988411-dongfeng-mage-2026-test-za-rulem/",
     "https://www.zr.ru/content/news/988395-remont-dorozhe-mashiny-kakie-av/",
     "https://www.zr.ru/content/news/988423-mitsubishi-pajero-vozvrashchaetsya/",
-    "https://motor.ru/news/premium-versiyu-geely-monjaro-s-dizainom-v-stile-maybach-budut-prodavat-za-2-8-mln-rublei-13-11-2026.htm"
+    "https://motor.ru/news/premium-versiyu-geely-monjaro-s-dizainom-v-stile-maybach-budut-prodavat-za-2-8-mln-rublei-13-11-2026.htm",
+    "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -169,9 +170,12 @@
     "АвтоАксессуары",
     "АвтоНовостиКореи",
     "АвтоПромНовости",
-    "АвтоИнновации"
+    "АвтоИнновации",
+    "Mercedes",
+    "Автопроизводство",
+    "ЯпонскиеАвто"
   ],
-  "last_slot": "2026-11-13-8",
+  "last_slot": "2026-11-13-9",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -508,6 +512,14 @@
       "title": "Премиум-версию Geely Monjaro с дизайном в стиле Maybach будут продавать за 2,8 млн рублей",
       "link": "https://motor.ru/news/premium-versiyu-geely-monjaro-s-dizainom-v-stile-maybach-budut-prodavat-za-2-8-mln-rublei-13-11-2026.htm",
       "published_at": "2026-11-13T07:50:13.432870+00:00"
+    },
+    {
+      "slot": "2026-11-13-9",
+      "post_id": 106,
+      "source": "Motor",
+      "title": "Mercedes-Benz прекратил вкладывать деньги в немецкие заводы",
+      "link": "https://motor.ru/news/mercedes-benz-prekratil-vkladyvat-dengi-v-nemeckie-zavody-13-11-2026.htm",
+      "published_at": "2026-11-13T08:41:38.573715+00:00"
     }
   ]
 }
