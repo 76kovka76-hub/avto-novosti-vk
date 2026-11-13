@@ -48,7 +48,8 @@
     "https://motor.ru/news/volkswagen-nachal-vypusk-avtomobilei-pod-novoi-markoi-scout-13-11-2026.htm",
     "https://motor.ru/news/eshyo-odin-krupnyi-avtoproizvoditel-otkazalsya-ot-ekranov-v-polzu-knopok-13-11-2026.htm",
     "https://www.zr.ru/content/news/988480-v-rossii-nachali-vypuskat-popu/",
-    "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/"
+    "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/",
+    "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/"
   ],
   "used_tags": [
     "Kia",
@@ -197,9 +198,12 @@
     "Седаны",
     "АвтоНовостиЕвропы",
     "АвтоНовостиСША",
-    "АвтоРазработка"
+    "АвтоРазработка",
+    "АвтоПутешествия",
+    "Автотуризм",
+    "АвтоМаршруты"
   ],
-  "last_slot": "2026-11-13-15",
+  "last_slot": "2026-11-13-16",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -592,6 +596,14 @@
       "title": "Фадеева: Volga продолжит работу над созданием новых моделей",
       "link": "https://www.zr.ru/content/news/988463-novyj-volga-v-defitsite-pochemu/",
       "published_at": "2026-11-13T15:15:49.094701+00:00"
+    },
+    {
+      "slot": "2026-11-13-16",
+      "post_id": 116,
+      "source": "За рулём",
+      "title": "Самый популярный хэтчбек Китая сертифицировали для РФ",
+      "link": "https://www.zr.ru/content/news/988486-samyj-populyarnyj-khehtchbek-kitaya/",
+      "published_at": "2026-11-13T16:51:52.109398+00:00"
     }
   ]
 }
