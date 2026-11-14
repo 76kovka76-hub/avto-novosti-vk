@@ -70,7 +70,8 @@
     "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/",
     "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/",
     "https://www.zr.ru/content/news/988506-matovyj-bel-air-s-rozetkoj-vme/",
-    "https://www.zr.ru/content/news/988505-rul-sprava-ili-sleva-kak-kup/"
+    "https://www.zr.ru/content/news/988505-rul-sprava-ili-sleva-kak-kup/",
+    "https://www.zr.ru/content/news/988289-nadezhnyj-semejnyj-avtomobil-n/"
   ],
   "used_tags": [
     "Kia",
@@ -285,9 +286,12 @@
     "АвтоИндустрия",
     "ЦеныНаАвто",
     "АвтоНовостиДня",
-    "Электрокары"
+    "Электрокары",
+    "АвтоЭлектроника",
+    "АвтоСервис",
+    "АвтоРемонт"
   ],
-  "last_slot": "2026-11-14-17",
+  "last_slot": "2026-11-14-18",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -856,6 +860,14 @@
       "title": "Новый надежный кроссовер Honda появился в России с ценой дешевых «китайцев»",
       "link": "https://www.zr.ru/content/news/988505-rul-sprava-ili-sleva-kak-kup/",
       "published_at": "2026-11-14T17:29:04.734069+00:00"
+    },
+    {
+      "slot": "2026-11-14-18",
+      "post_id": 142,
+      "source": "За рулём",
+      "title": "Надежный семейный автомобиль на 5 человек превратили в удобный автодом для четверых",
+      "link": "https://www.zr.ru/content/news/988289-nadezhnyj-semejnyj-avtomobil-n/",
+      "published_at": "2026-11-14T18:40:25.260565+00:00"
     }
   ]
 }
