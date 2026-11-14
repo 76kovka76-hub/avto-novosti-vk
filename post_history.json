@@ -63,7 +63,8 @@
     "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/",
     "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/",
     "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm",
-    "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/"
+    "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/",
+    "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/"
   ],
   "used_tags": [
     "Kia",
@@ -257,9 +258,12 @@
     "Hyundai",
     "АвтоИнновации",
     "Двигатели",
-    "АвтоМоторы"
+    "АвтоМоторы",
+    "Lada",
+    "Toyota",
+    "BMW"
   ],
-  "last_slot": "2026-11-14-10",
+  "last_slot": "2026-11-14-11",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -772,6 +776,14 @@
       "title": "Это устройство поможет забывчивым не просчитаться со временем парковки",
       "link": "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/",
       "published_at": "2026-11-14T09:04:42.058705+00:00"
+    },
+    {
+      "slot": "2026-11-14-11",
+      "post_id": 134,
+      "source": "За рулём",
+      "title": "Электромобиль без льгот: Evolute вернул почти миллионную скидку",
+      "link": "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/",
+      "published_at": "2026-11-14T10:24:02.126262+00:00"
     }
   ]
 }
