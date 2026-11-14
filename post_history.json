@@ -71,7 +71,8 @@
     "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/",
     "https://www.zr.ru/content/news/988506-matovyj-bel-air-s-rozetkoj-vme/",
     "https://www.zr.ru/content/news/988505-rul-sprava-ili-sleva-kak-kup/",
-    "https://www.zr.ru/content/news/988289-nadezhnyj-semejnyj-avtomobil-n/"
+    "https://www.zr.ru/content/news/988289-nadezhnyj-semejnyj-avtomobil-n/",
+    "https://www.zr.ru/content/news/988507-voditel-za-rulem-no-reshaet-eh/"
   ],
   "used_tags": [
     "Kia",
@@ -289,9 +290,12 @@
     "Электрокары",
     "АвтоЭлектроника",
     "АвтоСервис",
-    "АвтоРемонт"
+    "АвтоРемонт",
+    "Автоспорт",
+    "АвтоЭкология",
+    "Транспорт"
   ],
-  "last_slot": "2026-11-14-18",
+  "last_slot": "2026-11-14-19",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -868,6 +872,14 @@
       "title": "Надежный семейный автомобиль на 5 человек превратили в удобный автодом для четверых",
       "link": "https://www.zr.ru/content/news/988289-nadezhnyj-semejnyj-avtomobil-n/",
       "published_at": "2026-11-14T18:40:25.260565+00:00"
+    },
+    {
+      "slot": "2026-11-14-19",
+      "post_id": 143,
+      "source": "За рулём",
+      "title": "Реакция больше не нужна: запатентована система, которая сама стартует на гонках",
+      "link": "https://www.zr.ru/content/news/988507-voditel-za-rulem-no-reshaet-eh/",
+      "published_at": "2026-11-14T19:59:43.273678+00:00"
     }
   ]
 }
