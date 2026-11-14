@@ -62,7 +62,8 @@
     "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm",
     "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/",
     "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/",
-    "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm"
+    "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm",
+    "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/"
   ],
   "used_tags": [
     "Kia",
@@ -253,9 +254,12 @@
     "Автопремьеры",
     "MercedesBenz",
     "Volkswagen",
-    "Hyundai"
+    "Hyundai",
+    "АвтоИнновации",
+    "Двигатели",
+    "АвтоМоторы"
   ],
-  "last_slot": "2026-11-14-9",
+  "last_slot": "2026-11-14-10",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -760,6 +764,14 @@
       "title": "Китайские с стримерши превратили обочину трассы в гигантскую студию ради денег",
       "link": "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm",
       "published_at": "2026-11-14T08:17:37.033333+00:00"
+    },
+    {
+      "slot": "2026-11-14-10",
+      "post_id": 133,
+      "source": "За рулём",
+      "title": "Это устройство поможет забывчивым не просчитаться со временем парковки",
+      "link": "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/",
+      "published_at": "2026-11-14T09:04:42.058705+00:00"
     }
   ]
 }
