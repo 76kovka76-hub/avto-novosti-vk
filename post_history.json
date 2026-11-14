@@ -59,7 +59,8 @@
     "https://www.zr.ru/content/news/988451-shou-s-letayushchim-roadster-ne-vpe/",
     "https://www.zr.ru/content/news/988287-retsept-molodosti-amerikanskuyu/",
     "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/",
-    "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm"
+    "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm",
+    "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/"
   ],
   "used_tags": [
     "Kia",
@@ -241,9 +242,12 @@
     "Электромобили",
     "Chery",
     "Бензин",
-    "АвтоЭкономика"
+    "АвтоЭкономика",
+    "Jetour",
+    "АвтоПокупка",
+    "АвтоПродажа"
   ],
-  "last_slot": "2026-11-14-6",
+  "last_slot": "2026-11-14-7",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -724,6 +728,14 @@
       "title": "Самый большой кроссовер Chery длиной 5,2 метра будут продавать за 2,4 млн рублей",
       "link": "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm",
       "published_at": "2026-11-14T04:39:40.512961+00:00"
+    },
+    {
+      "slot": "2026-11-14-7",
+      "post_id": 129,
+      "source": "За рулём",
+      "title": "5 секунд до сотни и разворот на месте: каким получился первый электрокар Jetour",
+      "link": "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/",
+      "published_at": "2026-11-14T05:28:13.492280+00:00"
     }
   ]
 }
