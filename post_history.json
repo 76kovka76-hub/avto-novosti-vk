@@ -66,7 +66,8 @@
     "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/",
     "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/",
     "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/",
-    "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm"
+    "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm",
+    "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/"
   ],
   "used_tags": [
     "Kia",
@@ -269,9 +270,12 @@
     "АвтоИспытания",
     "Bmw",
     "Kia",
-    "Geely"
+    "Geely",
+    "АвтоЦены",
+    "ТестДрайв",
+    "АвтоНовинки"
   ],
-  "last_slot": "2026-11-14-13",
+  "last_slot": "2026-11-14-14",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -808,6 +812,14 @@
       "title": "BMW отзовет более 720 тысяч машин из-за риска возгорания",
       "link": "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm",
       "published_at": "2026-11-14T13:08:27.356237+00:00"
+    },
+    {
+      "slot": "2026-11-14-14",
+      "post_id": 138,
+      "source": "За рулём",
+      "title": "Sony создала систему передачи запаха из рекламы на билбордах в салон машины",
+      "link": "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/",
+      "published_at": "2026-11-14T13:55:03.817569+00:00"
     }
   ]
 }
