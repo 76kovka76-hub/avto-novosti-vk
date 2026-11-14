@@ -55,7 +55,8 @@
     "https://www.zr.ru/content/news/988495-za-12-millionov-prodayut-toyota/",
     "https://www.zr.ru/content/news/988453-424-l.s.-i-220-km-na-ehlektrotya/",
     "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/",
-    "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/"
+    "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/",
+    "https://www.zr.ru/content/news/988451-shou-s-letayushchim-roadster-ne-vpe/"
   ],
   "used_tags": [
     "Kia",
@@ -225,9 +226,12 @@
     "ЗарядныеСтанции",
     "Дороги",
     "Грузовики",
-    "Пикапы"
+    "Пикапы",
+    "Tesla",
+    "Porsche",
+    "АвтономноеВождение"
   ],
-  "last_slot": "2026-11-14-2",
+  "last_slot": "2026-11-14-3",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -676,6 +680,14 @@
       "title": "На рынок вышел новый кроссовер с внешностью Land Rover и ценой Лады Весты",
       "link": "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/",
       "published_at": "2026-11-13T23:44:01.216527+00:00"
+    },
+    {
+      "slot": "2026-11-14-3",
+      "post_id": 125,
+      "source": "За рулём",
+      "title": "Шоу с летающим Roadster не впечатлило: Porsche раскритиковала Tesla",
+      "link": "https://www.zr.ru/content/news/988451-shou-s-letayushchim-roadster-ne-vpe/",
+      "published_at": "2026-11-14T01:27:48.879394+00:00"
     }
   ]
 }
