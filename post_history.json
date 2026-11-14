@@ -65,7 +65,8 @@
     "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm",
     "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/",
     "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/",
-    "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/"
+    "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/",
+    "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -265,9 +266,12 @@
     "BMW",
     "Автокультура",
     "КлассическиеАвто",
-    "АвтоИспытания"
+    "АвтоИспытания",
+    "Bmw",
+    "Kia",
+    "Geely"
   ],
-  "last_slot": "2026-11-14-12",
+  "last_slot": "2026-11-14-13",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -796,6 +800,14 @@
       "title": "Новый концепт Polestar от бывшего дизайнера Audi — будет две новых модели",
       "link": "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/",
       "published_at": "2026-11-14T11:39:29.099735+00:00"
+    },
+    {
+      "slot": "2026-11-14-13",
+      "post_id": 137,
+      "source": "Motor",
+      "title": "BMW отзовет более 720 тысяч машин из-за риска возгорания",
+      "link": "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm",
+      "published_at": "2026-11-14T13:08:27.356237+00:00"
     }
   ]
 }
