@@ -67,7 +67,8 @@
     "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/",
     "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/",
     "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm",
-    "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/"
+    "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/",
+    "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/"
   ],
   "used_tags": [
     "Kia",
@@ -273,9 +274,12 @@
     "Geely",
     "АвтоЦены",
     "ТестДрайв",
-    "АвтоНовинки"
+    "АвтоНовинки",
+    "BYD",
+    "Volvo",
+    "АвтоГаджеты"
   ],
-  "last_slot": "2026-11-14-14",
+  "last_slot": "2026-11-14-15",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -820,6 +824,14 @@
       "title": "Sony создала систему передачи запаха из рекламы на билбордах в салон машины",
       "link": "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/",
       "published_at": "2026-11-14T13:55:03.817569+00:00"
+    },
+    {
+      "slot": "2026-11-14-15",
+      "post_id": 139,
+      "source": "За рулём",
+      "title": "В октябре российский авторынок поднялся на строчку выше в Европе",
+      "link": "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/",
+      "published_at": "2026-11-14T15:14:05.113128+00:00"
     }
   ]
 }
