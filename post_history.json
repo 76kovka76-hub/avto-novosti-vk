@@ -58,7 +58,8 @@
     "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/",
     "https://www.zr.ru/content/news/988451-shou-s-letayushchim-roadster-ne-vpe/",
     "https://www.zr.ru/content/news/988287-retsept-molodosti-amerikanskuyu/",
-    "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/"
+    "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/",
+    "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -237,9 +238,12 @@
     "АвтоВладельцы",
     "АвтоТренды",
     "АвтоБудущее",
-    "Электромобили"
+    "Электромобили",
+    "Chery",
+    "Бензин",
+    "АвтоЭкономика"
   ],
-  "last_slot": "2026-11-14-5",
+  "last_slot": "2026-11-14-6",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -712,6 +716,14 @@
       "title": "Ситуация на российском авторынке стала центральной темой крупного форума",
       "link": "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/",
       "published_at": "2026-11-14T03:09:31.153583+00:00"
+    },
+    {
+      "slot": "2026-11-14-6",
+      "post_id": 128,
+      "source": "Motor",
+      "title": "Самый большой кроссовер Chery длиной 5,2 метра будут продавать за 2,4 млн рублей",
+      "link": "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm",
+      "published_at": "2026-11-14T04:39:40.512961+00:00"
     }
   ]
 }
