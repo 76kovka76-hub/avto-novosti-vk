@@ -64,7 +64,8 @@
     "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/",
     "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm",
     "https://www.zr.ru/content/news/988284-ehtot-disk-pomozhet-zabyvchivym-n/",
-    "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/"
+    "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/",
+    "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/"
   ],
   "used_tags": [
     "Kia",
@@ -261,9 +262,12 @@
     "АвтоМоторы",
     "Lada",
     "Toyota",
-    "BMW"
+    "BMW",
+    "Автокультура",
+    "КлассическиеАвто",
+    "АвтоИспытания"
   ],
-  "last_slot": "2026-11-14-11",
+  "last_slot": "2026-11-14-12",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -784,6 +788,14 @@
       "title": "Электромобиль без льгот: Evolute вернул почти миллионную скидку",
       "link": "https://www.zr.ru/content/news/988311-ehlektromobil-bez-lgot-evolu/",
       "published_at": "2026-11-14T10:24:02.126262+00:00"
+    },
+    {
+      "slot": "2026-11-14-12",
+      "post_id": 135,
+      "source": "За рулём",
+      "title": "Новый концепт Polestar от бывшего дизайнера Audi — будет две новых модели",
+      "link": "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/",
+      "published_at": "2026-11-14T11:39:29.099735+00:00"
     }
   ]
 }
