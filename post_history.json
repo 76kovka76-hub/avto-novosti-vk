@@ -60,7 +60,8 @@
     "https://www.zr.ru/content/news/988287-retsept-molodosti-amerikanskuyu/",
     "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/",
     "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm",
-    "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/"
+    "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/",
+    "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/"
   ],
   "used_tags": [
     "Kia",
@@ -245,9 +246,12 @@
     "АвтоЭкономика",
     "Jetour",
     "АвтоПокупка",
-    "АвтоПродажа"
+    "АвтоПродажа",
+    "РетроАвто",
+    "КонцептКары",
+    "Автопремьеры"
   ],
-  "last_slot": "2026-11-14-7",
+  "last_slot": "2026-11-14-8",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -736,6 +740,14 @@
       "title": "5 секунд до сотни и разворот на месте: каким получился первый электрокар Jetour",
       "link": "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/",
       "published_at": "2026-11-14T05:28:13.492280+00:00"
+    },
+    {
+      "slot": "2026-11-14-8",
+      "post_id": 130,
+      "source": "За рулём",
+      "title": "Бумажный ОСАГО уходит в прошлое: продажи электронных полисов выросли в 1,5 раза",
+      "link": "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/",
+      "published_at": "2026-11-14T07:21:13.409957+00:00"
     }
   ]
 }
