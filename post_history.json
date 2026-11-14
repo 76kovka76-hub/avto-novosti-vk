@@ -61,7 +61,8 @@
     "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/",
     "https://motor.ru/news/samyi-bolshoi-krossover-chery-dlinoi-5-2-metra-budut-prodavat-za-2-4-mln-rublei-13-11-2026.htm",
     "https://www.zr.ru/content/news/988450-pyat-sekund-do-sotni-i-razvoro/",
-    "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/"
+    "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/",
+    "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm"
   ],
   "used_tags": [
     "Kia",
@@ -249,9 +250,12 @@
     "АвтоПродажа",
     "РетроАвто",
     "КонцептКары",
-    "Автопремьеры"
+    "Автопремьеры",
+    "MercedesBenz",
+    "Volkswagen",
+    "Hyundai"
   ],
-  "last_slot": "2026-11-14-8",
+  "last_slot": "2026-11-14-9",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -748,6 +752,14 @@
       "title": "Бумажный ОСАГО уходит в прошлое: продажи электронных полисов выросли в 1,5 раза",
       "link": "https://www.zr.ru/content/news/988310-bumazhnyj-polis-osago-ukhodit-v/",
       "published_at": "2026-11-14T07:21:13.409957+00:00"
+    },
+    {
+      "slot": "2026-11-14-9",
+      "post_id": 131,
+      "source": "Motor",
+      "title": "Китайские с стримерши превратили обочину трассы в гигантскую студию ради денег",
+      "link": "https://motor.ru/news/kitaiskie-s-strimershi-prevratili-obochinu-trassy-v-gigantskuyu-studiyu-radi-deneg-14-11-2026.htm",
+      "published_at": "2026-11-14T08:17:37.033333+00:00"
     }
   ]
 }
