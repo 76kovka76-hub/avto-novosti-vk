@@ -68,7 +68,8 @@
     "https://www.zr.ru/content/news/988492-novyj-kontsept-polestar-ot-byvsh/",
     "https://motor.ru/news/bmw-otzovet-bolee-720-tysyach-mashin-iz-za-riska-vozgoraniya-14-11-2026.htm",
     "https://www.zr.ru/content/news/988504-v-mashine-zapakhnet-reklamoj-so/",
-    "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/"
+    "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/",
+    "https://www.zr.ru/content/news/988506-matovyj-bel-air-s-rozetkoj-vme/"
   ],
   "used_tags": [
     "Kia",
@@ -277,9 +278,12 @@
     "АвтоНовинки",
     "BYD",
     "Volvo",
-    "АвтоГаджеты"
+    "АвтоГаджеты",
+    "АвтоТехнологии",
+    "НовыеАвто",
+    "АвтоИндустрия"
   ],
-  "last_slot": "2026-11-14-15",
+  "last_slot": "2026-11-14-16",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -832,6 +836,14 @@
       "title": "В октябре российский авторынок поднялся на строчку выше в Европе",
       "link": "https://www.zr.ru/content/news/988366-oktyabr-podnyal-rossijskij-avto/",
       "published_at": "2026-11-14T15:14:05.113128+00:00"
+    },
+    {
+      "slot": "2026-11-14-16",
+      "post_id": 140,
+      "source": "За рулём",
+      "title": "Тюнеры превратили культовый Chevrolet из 50-х в электрокар с начинкой от Tesla",
+      "link": "https://www.zr.ru/content/news/988506-matovyj-bel-air-s-rozetkoj-vme/",
+      "published_at": "2026-11-14T16:22:58.534086+00:00"
     }
   ]
 }
