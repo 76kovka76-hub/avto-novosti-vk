@@ -57,7 +57,8 @@
     "https://www.zr.ru/content/news/988461-parkovochnye-tarify-budut-skorr/",
     "https://www.zr.ru/content/news/988440-za-tsenu-lada-vesta-kitajskij/",
     "https://www.zr.ru/content/news/988451-shou-s-letayushchim-roadster-ne-vpe/",
-    "https://www.zr.ru/content/news/988287-retsept-molodosti-amerikanskuyu/"
+    "https://www.zr.ru/content/news/988287-retsept-molodosti-amerikanskuyu/",
+    "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/"
   ],
   "used_tags": [
     "Kia",
@@ -233,9 +234,12 @@
     "АвтономноеВождение",
     "УмныйАвтомобиль",
     "АвтоСофт",
-    "АвтоВладельцы"
+    "АвтоВладельцы",
+    "АвтоТренды",
+    "АвтоБудущее",
+    "Электромобили"
   ],
-  "last_slot": "2026-11-14-4",
+  "last_slot": "2026-11-14-5",
   "posts": [
     {
       "slot": "2026-11-11-6",
@@ -700,6 +704,14 @@
       "title": "Рецепт молодости: американскую классику перевели на карбон",
       "link": "https://www.zr.ru/content/news/988287-retsept-molodosti-amerikanskuyu/",
       "published_at": "2026-11-14T02:20:25.800282+00:00"
+    },
+    {
+      "slot": "2026-11-14-5",
+      "post_id": 127,
+      "source": "За рулём",
+      "title": "Ситуация на российском авторынке стала центральной темой крупного форума",
+      "link": "https://www.zr.ru/content/news/988493-rossijskij-avtorynok-derzhitsya/",
+      "published_at": "2026-11-14T03:09:31.153583+00:00"
     }
   ]
 }
